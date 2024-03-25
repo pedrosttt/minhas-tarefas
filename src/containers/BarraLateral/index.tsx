@@ -45,7 +45,7 @@ const BarraLateral = () => {
             criterio="prioridade"
             legenda="Normais"
           />
-          <FiltroCard criterio="status" legenda="Todas" />
+          <FiltroCard criterio="todas" legenda="Todas" />
         </S.Filtros>
       </div>
     </S.Aside>
