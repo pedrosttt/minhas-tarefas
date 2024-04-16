@@ -9,7 +9,7 @@ export const Circulo = styled(Link)`
   color: #fff;
   position: fixed;
   bottom: 40px;
-  rigth: 40px;
+  right: 40px;
   border-radius: 50%;
   display: flex;
   justify-content: center;
